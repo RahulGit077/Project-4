@@ -1,0 +1,26 @@
+.navbar{
+    display: block;
+    background-color: black;
+    padding-bottom: 10px;
+}
+h1{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    display: inline;
+}
+ul{
+    display: inline;
+    margin-left: 65%;
+}
+
+li{
+    display: inline;
+    background-color: black;
+    margin-left: 5px;
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
